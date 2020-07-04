@@ -2,38 +2,227 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0ad89ac-c8f3-4b5d-ab53-ec67df8d5326" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e01FirstProgramAndComments/f01FirstProgramAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e01FirstProgramAndComments/f02FirstProgramAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e01FirstProgramAndComments/f03FirstProgramAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e01FirstProgramAndComments/f04FirstProgramAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e01FirstProgramAndComments/f05FirstProgramAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e01FirstProgramAndComments/f06FirstProgramAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e01FirstProgramAndComments/f07FirstProgramAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e01FirstProgramAndComments/f08FirstProgramAndComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F09VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F10VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F11VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F12VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F13VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F14VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F15VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F16VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F17VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F18VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F19VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/F20VariableAndType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e03Operators/F29Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e03Operators/F30Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e03Operators/F31Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/F40ConditionalStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e05LoopStatements/F50LoopForInFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06Arrays/F60Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06Arrays/F66Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06Arrays/F67Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06Arrays/F68Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06WhileAndDoWhile/f51LoopWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06WhileAndDoWhile/f52LoopWhileDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06WhileAndDoWhile/f53LoopWhileExponentiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06WhileAndDoWhile/f54LoopWhileDivide3And5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06WhileAndDoWhile/f55LoopForBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06WhileAndDoWhile/f56LoopForContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06WhileAndDoWhile/f57LoopDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e06WhileAndDoWhile/f58LoopDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/F69String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/F70String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/F71String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e09Method/f76JavaMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e09Method/f77CheckNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e09Method/f78CheckString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e09Method/f79CheckNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e09Method/f80AroundOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e09Method/f81Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e09Method/f82SumOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/e09Method/f83SumOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e1FirstProgramAndComments/f01JavaFirstProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e1FirstProgramAndComments/f02SingleLineComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e1FirstProgramAndComments/f03MultilineComments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e1FirstProgramAndComments/f04IntegerVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e1FirstProgramAndComments/f05DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e2VariablesAndTypes/f06FloatingPointVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/f06FloatingPointVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e2VariablesAndTypes/f07CharType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/f07CharType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e2VariablesAndTypes/f08GetUserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/f08GetUserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e2VariablesAndTypes/f09ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/f09ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e2VariablesAndTypes/f10ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e02VariablesAndTypes/f10ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e3Operators/f11RelationalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e03Operators/f11RelationalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e3Operators/f12ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e03Operators/f12ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e3Operators/f13RelationalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e03Operators/f13RelationalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e3Operators/f14LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e03Operators/f14LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e3Operators/f15AssignmentOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e03Operators/f15AssignmentOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e3Operators/f16OperatorAss1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e03Operators/f16OperatorAss1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e3Operators/f17OperatorAss2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e03Operators/f17OperatorAss2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e3Operators/f18OperatorAss3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e03Operators/f18OperatorAss3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f19IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f19IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f20IfStatementAss1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f20IfStatementAss1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f21IfElseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f21IfElseStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f22IfElseStatementAss1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f22IfElseStatementAss1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f23IfElseStatementAss2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f23IfElseStatementAss2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f24SwitchCaseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f24SwitchCaseStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f25SwitchCaseAss1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f25SwitchCaseAss1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f26ConditionalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f26ConditionalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4SelectionStatements/f27CoditionalOperatorAss1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e04ConditionalStatements/f27CoditionalOperatorAss1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f28LoopWithFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f28LoopWithFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f29ForEnhanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f29ForEnhanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f30LoopWithWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f30LoopWithWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f31LoopWithDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f31LoopWithDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f32BreakAndContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f32BreakAndContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f33ContinueBreak1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f33ContinueBreak1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f34ContinueBreak2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f34ContinueBreak2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f35CalculateAToThePowerB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f35CalculateAToThePowerB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e5LoopStatements/f36FindFactorialOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e05LoopStatements/f36FindFactorialOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e6Arrays/f37SingleDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e06Arrays/f37SingleDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e6Arrays/f38SingleDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e06Arrays/f38SingleDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e6Arrays/f39MultiDimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e06Arrays/f39MultiDimensionalArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e6Arrays/f40Arrays3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e06Arrays/f40Arrays3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e6Arrays/f41JavaArray1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e06Arrays/f41JavaArray1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e6Arrays/f42JavaArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e06Arrays/f42JavaArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f43Collection1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f43Collection1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f44Collection2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f44Collection2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f45Collection3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f45Collection3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f46Collection4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f46Collection4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f47Collection5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f47Collection5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f48Collection6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f48Collection6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f49Collection8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f49Collection8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f50ObjectOrdering1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f50ObjectOrdering1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e7Collections/f51ObjectOrdering2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e07Collections/f51ObjectOrdering2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e8StringsAndStringBuilder/f52StringVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/f52StringVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e8StringsAndStringBuilder/f53StringReplaceMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/f53StringReplaceMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e8StringsAndStringBuilder/f54StringSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/f54StringSub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e8StringsAndStringBuilder/f55StringBuilder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/f55StringBuilder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e8StringsAndStringBuilder/f56StringBuilder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/f56StringBuilder2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e8StringsAndStringBuilder/f57StringBuilder3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e08StringsAndStringBuilder/f57StringBuilder3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e9NumbersAndMath/f58Numbers1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e09NumbersAndMath/f58Numbers1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e9NumbersAndMath/f59IntToHex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e09NumbersAndMath/f59IntToHex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e9NumbersAndMath/f60Math1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e09NumbersAndMath/f60Math1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e9NumbersAndMath/f61IsInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/e09NumbersAndMath/f61IsInteger.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1U0tVQPUb7bScEMF8g9V2YrMTP6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Application.F70String">
+    <configuration name="F30Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e03Operators.F30Operator" />
+      <module name="JavaFundamentalsCodeLearnIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e03Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F31Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e03Operators.F31Operator" />
+      <module name="JavaFundamentalsCodeLearnIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e03Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F50LoopForInFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e05LoopStatements.F50LoopForInFor" />
+      <module name="JavaFundamentalsCodeLearnIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e05LoopStatements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F69String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e08StringsAndStringBuilder.F69String" />
+      <module name="JavaFundamentalsCodeLearnIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e08StringsAndStringBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="F70String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="e08StringsAndStringBuilder.F70String" />
+      <module name="JavaFundamentalsCodeLearnIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e08StringsAndStringBuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Application.F70String" />
+        <item itemvalue="Application.F69String" />
+        <item itemvalue="Application.F50LoopForInFor" />
+        <item itemvalue="Application.F31Operator" />
+        <item itemvalue="Application.F30Operator" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,6 +235,9 @@
       <option name="presentableId" value="Default" />
       <updated>1574505363579</updated>
       <workItem from="1574505364733" duration="745000" />
+      <workItem from="1593826065013" duration="5398000" />
+      <workItem from="1593838523648" duration="2304000" />
+      <workItem from="1593851108910" duration="9668000" />
     </task>
     <task id="LOCAL-00001" summary="Update README.md">
       <created>1574506290810</created>
@@ -58,7 +250,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -70,9 +262,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1593864684567">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/62.0.1858.1080/1920.0.1280.1024@62.0.1858.1080" timestamp="1593864684567" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1593864684566">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.center/62.0.1858.1080/1920.0.1280.1024@62.0.1858.1080" timestamp="1593864684566" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1593864684566">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.left/62.0.1858.1080/1920.0.1280.1024@62.0.1858.1080" timestamp="1593864684566" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1593864684567">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.right/62.0.1858.1080/1920.0.1280.1024@62.0.1858.1080" timestamp="1593864684567" />
   </component>
 </project>
