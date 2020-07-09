@@ -6,7 +6,10 @@
 
 Nay rảnh rỗi nên tải lên Github để chia sẻ và học tập cùng mọi người!
 
-Cập nhật ngày 04 tháng 07 năm 2020.  
-[codelearn.io](https://codelearn.io/certification/y2e3nwq5)
-
 Loạt bài tập này mình sử dụng IntelliJ IDEA để code và chia sẻ.
+
+[Java fundamentals](https://github.com/vegetaz/JavaFundamentalsCodeLearnIO)
+
+[Java Object Oriented Programming](https://github.com/vegetaz/JavaOOPCodeLearnIO)
+
+[Java Advanced](https://github.com/vegetaz/JavaAdvancedCodeLearnIO)
